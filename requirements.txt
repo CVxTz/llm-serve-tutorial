@@ -1,2 +1,6 @@
 openai==1.12.0
 ruff==0.3.3
+# google-cloud-aiplatform==1.46.0
+modal==0.62.43
+transformers==4.39.3
+vllm
